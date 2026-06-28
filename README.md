@@ -1,4 +1,3 @@
 # Synapse_neural_net_training_game
-A game for teaching people how neural network training works
-
+SYNAPSE is a browser game that teaches the math behind neural networks. You're given a network (inputs, weights, biases, hidden layers, and outputs) and you tune the numbers until the network produces the right answers. It starts with a single neuron (output = input × weight + bias) and builds up to deep, multi-layer nets. Later levels are real training problems: the same weights must satisfy several input→output examples at once, with decimal targets, negative weights, and genuine ReLU clamping, so guessing won't cut it, and you learn to solve them. Includes 12 levels, a level picker, live feedback, hints, and a per-level explainer. Single self-contained HTML file, no dependencies, works offline.
 <img width="1077" height="569" alt="image" src="https://github.com/user-attachments/assets/68908191-be83-42cd-92fb-9185e4a922a5" />
